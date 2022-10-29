@@ -1,0 +1,15 @@
+[
+ {
+   "Industry": "Biofertilizers",
+   "Recommended species": ["Arthrospira",	"Aulosira fertilissima ",	"Auxin",	"Charophyceae",	"Chlorella",	"Chlorophyceae",	"Cytokinin",	"Klebsormidium",	"Nannochloris ",	"Nannochloropsis",	"Quadricauda",	"Scenedesmus",	"Spirulina",	"Trebouxiophyceae",	"Ulothrix",	"Ulvophyceae",	"Vulgaris"]
+ },
+ {
+   "Industry": "Cosmetics",
+   "Recommended species": ["Astaxanthin",	"Chlorella",	"Dunaliella salina",	"Haematococcus pluvialis",	"Nannochloropsis",	"Nostoc flegelliforme",	"Phaeodactylum tricornutum",	"phycocyanobilins",	"Porphyridium",	"Rhodella",	"Scenedesmus",	"Skeletonema"
+]
+ },
+ {
+   "Industry": "Pharmaceutical",
+   "Recommended species": ["Amphidinium",	"Ascophyllum",	"astaxanthin",	"Chlorella",	"Costatum",	"Ecklonia",	"Enteromorpha",	"Flagelliforme",	"Fucus",	"galbana",	"Gigartina",	"Gyrodinium",	"Haematococcus",	"Haematococcus",	"Impudicum",	"Isochrysis",	"Jjaponica",	"Laminaria",	"Linza",	"Navicula directa",	"Nodosum",	"Nostoc",	"Phaeodactylum",	"pinnatifida",	"platensis",	"Pluvialis",	"Porphyridium",	"Skeletonema",	"Skottsbergii",	"Spirulina",	"stolonifera",	"Tetraselmis",	"Tricornutum",	"Ulva rigida",	"Undaria",	"Vesiculosus",	"Vulgaris"]
+ }
+]
